@@ -255,7 +255,7 @@ This project is for **education and authorized security testing only**. The targ
 
 ## 👤 Author
 
-**kannou dhia(url)**
+**kannou dhia**
 Cybersecurity Student, NetworkWalks B084M
 
 
