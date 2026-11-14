@@ -255,8 +255,10 @@ This project is for **education and authorized security testing only**. The targ
 
 ## 👤 Author
 
-**Dhia Kannou**
+**Gaurav Kudiya**
 Cybersecurity Student, NetworkWalks B084M
+
+LinkedIn: https://www.linkedin.com/in/gauravkudiya/
 
 ---
 
